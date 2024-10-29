@@ -1,0 +1,17 @@
+{
+    "providers":[
+        {"type":"bitmap", "file":"font/icons/tag.png", "ascent":8, "height":8, "chars":["a"]},
+        {"type":"bitmap", "file":"font/icons/armor.png", "ascent":8, "height":8, "chars":["b"]},
+        {"type":"bitmap", "file":"font/icons/sharp_weapon.png", "ascent":8, "height":8, "chars":["c"]},
+        {"type":"bitmap", "file":"font/icons/blunt_weapon.png", "ascent":8, "height":8, "chars":["d"]},
+        {"type":"bitmap", "file":"font/icons/ranged_weapon.png", "ascent":8, "height":8, "chars":["e"]},
+        {"type":"bitmap", "file":"font/icons/jewelry.png", "ascent":8, "height":8, "chars":["f"]},
+        {"type":"bitmap", "file":"font/icons/backpack.png", "ascent":8, "height":8, "chars":["g"]},
+        {"type":"bitmap", "file":"font/icons/cosmetic.png", "ascent":8, "height":8, "chars":["h"]},
+        {"type":"bitmap", "file":"font/icons/map.png", "ascent":8, "height":8, "chars":["i"]},
+        {"type":"bitmap", "file":"font/icons/coins.png", "ascent":8, "height":8, "chars":["j"]}
+
+
+
+    ]
+}
