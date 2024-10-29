@@ -3,7 +3,7 @@
         {"type":"bitmap", "file":"font/icons/multiplayer.png", "ascent":8, "height":8, "chars":["a"]},
         {"type":"bitmap", "file":"font/icons/singleplayer.png", "ascent":8, "height":8, "chars":["b"]},
         {"type":"bitmap", "file":"font/icons/large.png", "ascent":8, "height":8, "chars":["c"]},
-         {"type":"bitmap", "file":"font/icons/small.png", "ascent":8, "height":8, "chars":["d"]},
+         {"type":"bitmap", "file":"font/icons/small.png", "ascent":8, "height":8, "chars":["d"]}
 
 
 
