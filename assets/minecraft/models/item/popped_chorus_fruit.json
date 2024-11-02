@@ -8,7 +8,11 @@
           {"predicate": {"custom_model_data":2}, "model": "item/custom/twine"},
           {"predicate": {"custom_model_data":3}, "model": "item/custom/slag"},
           {"predicate": {"custom_model_data":4}, "model": "item/custom/iron_sundries"},
-          {"predicate": {"custom_model_data":5}, "model": "item/custom/crude_iron"}
+          {"predicate": {"custom_model_data":5}, "model": "item/custom/crude_iron"},
+          {"predicate": {"custom_model_data":6}, "model": "item/custom/malt_ale"},
+          {"predicate": {"custom_model_data":7}, "model": "item/custom/flax_linen"}
+
+
 
     ]
   }
