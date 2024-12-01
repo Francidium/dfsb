@@ -1,0 +1,6 @@
+{
+    "providers":[
+        {"type":"bitmap", "file":"font/title.png", "ascent":8, "height":51, "chars":["a"]}
+        
+    ]
+}

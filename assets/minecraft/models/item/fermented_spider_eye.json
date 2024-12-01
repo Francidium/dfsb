@@ -1,0 +1,29 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/fermented_spider_eye"
+    },
+      "overrides": [
+          {"predicate": {"custom_model_data":1}, "model": "item/custom/flax"},
+          {"predicate": {"custom_model_data":2}, "model": "item/custom/twine"},
+          {"predicate": {"custom_model_data":3}, "model": "item/custom/slag"},
+          {"predicate": {"custom_model_data":4}, "model": "item/custom/iron_sundries"},
+          {"predicate": {"custom_model_data":5}, "model": "item/custom/crude_iron"},
+          {"predicate": {"custom_model_data":6}, "model": "item/custom/malt_ale"},
+          {"predicate": {"custom_model_data":7}, "model": "item/custom/flax_linen"},
+          {"predicate": {"custom_model_data":8}, "model": "item/custom/iron_powder"},
+          {"predicate": {"custom_model_data":9}, "model": "item/custom/gilded_slag"},
+
+
+
+          {"predicate": {"custom_model_data":101}, "model": "item/custom/scythe"},
+          {"predicate": {"custom_model_data":102}, "model": "item/custom/sap"},
+          {"predicate": {"custom_model_data":103}, "model": "item/custom/flax_oil"},
+          {"predicate": {"custom_model_data":104}, "model": "item/custom/glue"},
+          {"predicate": {"custom_model_data":105}, "model": "item/fishing_rod"}
+
+
+
+
+    ]
+  }
