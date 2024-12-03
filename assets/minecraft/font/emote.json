@@ -1,0 +1,7 @@
+{
+    "providers":[
+        {"type":"bitmap", "file":"font/emote.png","ascent":7, "height":8, "chars":
+        ["abcd","efgh","ijkl","mnop"]        
+        }
+        ]
+}
